@@ -7,4 +7,3 @@ def meow
   puts "meow!"
 end
 
-cat.meow
